@@ -1,0 +1,19 @@
+label {
+    color: blue;
+}
+
+input[type="text"] {
+    font-size: 25px;
+}
+
+#email-container {
+    position: relative;
+}
+
+#bouh {
+    position: absolute;
+    left: 400px;
+    top: 0px;
+    color: red;
+    font-size: 10px;
+}
